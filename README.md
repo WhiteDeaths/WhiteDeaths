@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **front and back end skills**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> [James Upson](https://www.linkedin.com/in/james-upson)
 <p align="left">
 </p>
 
